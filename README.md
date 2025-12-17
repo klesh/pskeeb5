@@ -2,14 +2,14 @@
 
 # pskeeb5
 
-A keyboard designed for demanding typer who values their time and health!
+A keyboard crafted for uncompromising typists who value efficiency and ergonomics.
 
-- Ergonomic Split Tilted Design
-- Portable with Travle Case doubles as latop raiser
-- Bluetooth wireless
-- Sensitivity Adjustable Trackpoint
-- Power Switch for saving battery when travling
-- OLED to show status for both halves
+- **Ergonomic Split & Tilted Design**: Promotes natural hand posture.
+- **Dual-Purpose Travel Case**: Protects your keyboard and transforms into a laptop riser.
+- **Wireless Freedom**: Bluetooth connectivity for a clean setup.
+- **Precision Control**: Integrated Trackpoint with adjustable sensitivity.
+- **Travel-Ready**: Dedicated power switch to preserve battery life on the go.
+- **Status at a Glance**: OLED displays on both halves for instant feedback.
 
 ## Build Guide
 
