@@ -4,6 +4,10 @@
 
 A keyboard crafted for uncompromising typists who value efficiency and ergonomics.
 
+![pskeeb5](images/pskeeb5-black-in-front-of-case.JPG)
+![pskeeb5](images/pskeeb5-with-mackbook.jpg)
+![pskeeb5](images/pskeeb5-case-macbook.jpg)
+
 - **Ergonomic Split & Tilted Design**: Promotes natural hand posture.
 - **Dual-Purpose Travel Case**: Protects your keyboard and transforms into a laptop riser.
 - **Wireless Freedom**: Bluetooth connectivity for a clean setup.
