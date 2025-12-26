@@ -29,7 +29,8 @@ A keyboard crafted for uncompromising typists who value efficiency and ergonomic
 
 ### Step 3: Soldering
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shT9tNO009Q?si=OMOsVdFV4l5LtnAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Thumbnail](img.youtube.com)](www.youtube.com)
+https://youtu.be/shT9tNO009Q?si=PsniRqzwwflS7J1r
 
 ### Step 4: Assembling
 
