@@ -42,3 +42,6 @@ https://youtu.be/shT9tNO009Q?si=PsniRqzwwflS7J1r
 ### Step 6: Configurator - ZMK Studio
 
 *Video guide coming soon.*
+
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
