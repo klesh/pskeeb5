@@ -29,17 +29,14 @@ A keyboard crafted for uncompromising typists who value efficiency and ergonomic
 
 ### Step 3: Soldering
 
-https://youtu.be/shT9tNO009Q?si=PsniRqzwwflS7J1r
+video: https://youtu.be/shT9tNO009Q?si=PsniRqzwwflS7J1r
+Firmwares can be downloaded from the releases page.
 
-### Step 4: Assembling
+### Step 4: Assembling, Flash Firmware & Test
 
-*Video guide coming soon.*
+https://youtu.be/UxQ_yc_v1pM
 
-### Step 5: Flash Firmware & Test
-
-*Video guide coming soon.*
-
-### Step 6: Configurator - ZMK Studio
+### Step 5: Configurator - ZMK Studio
 
 *Video guide coming soon.*
 
